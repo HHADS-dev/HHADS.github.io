@@ -1,5 +1,5 @@
 title: "我的个人网站"
 description: "这是我的个人网站，展示项目、研究和博客内容"
-theme: minima  # 设置 Jekyll 主题为 minima
+theme: jekyll-theme-minimal  # 设置 Jekyll 主题为 minima
 url: "https://HHADS.github.io"
 baseurl: ""  # 根目录下的页面
