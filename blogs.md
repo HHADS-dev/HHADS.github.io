@@ -7,5 +7,5 @@ permalink: HHADS.github.io/blog/
 这是我的博客页面，下面是我的所有文章：
 
 {% for post in site.posts %}
-- [{{ post.title }}]({{ HHADS.github.io/post.url }})
+- [{{ post.title }}]({{ post.url }})
 {% endfor %}
