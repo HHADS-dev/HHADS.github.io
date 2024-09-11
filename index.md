@@ -8,4 +8,4 @@ title: "主页"
 - [About me](HHADS.github.io/about/)
 - [Projects](HHADS.github.io/projects/)
 - [Researches](HHADS.github.io/research/)
-- [Blogs](HHADS.github.io/blogs/)
+- [Blogs](HHADS.github.io/blog/)
