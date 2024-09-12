@@ -3,7 +3,7 @@ layout: default
 title: "主页"
 ---
 
-欢迎访问我的个人网站！
+Welcome to my channel！
 ## 导航
 - [About me](HHADS.github.io/about/)
 - [Projects](HHADS.github.io/projects/)
